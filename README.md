@@ -30,7 +30,7 @@
 
 \- \[Registro de riesgos](docs/actividad-1/riesgos.md)
 
-\- \[Video de sustentación](https://correoitmedu-my.sharepoint.com/:v:/g/personal/lindavergara1129854\_correo\_itm\_edu\_co/IQAf06I9O3zIRocN9JYKaA1FAScXaRBplqC\_M2nwPJjpE\_g?e=7RohIw\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)(enlace)
+\- \[Video de sustentación](https://correoitmedu-my.sharepoint.com/:v:/g/personal/lindavergara1129854\_correo\_itm\_edu\_co/IQAf06I9O3zIRocN9JYKaA1FAScXaRBplqC\_M2nwPJjpE\_g?e=7RohIw\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 
 \---
 
