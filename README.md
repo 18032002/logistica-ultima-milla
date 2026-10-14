@@ -36,3 +36,33 @@
 
 \*Actividad 1 - Diagnóstico y contexto arquitectónico\*
 
+
+
+\## Actividad 2 - Requisitos y decisión estructural
+
+
+
+\### Resumen
+
+
+
+Se tradujeron las necesidades del negocio en requisitos funcionales y no funcionales priorizados, se definieron escenarios de calidad con métricas concretas y se compararon dos alternativas estructurales (Monolito Modular vs. Arquitectura Distribuida). La decisión elegida fue un \*\*Monolito Modular con límites claros\*\*, documentada en el ADR-001.
+
+
+
+\### Entregables
+
+
+
+\- \[Catálogo de requisitos](docs/actividad-2/catalogo-requisitos.md)
+
+\- \[Matriz de priorización](docs/actividad-2/matriz-priorizacion.md)
+
+\- \[Escenarios de calidad](docs/actividad-2/escenarios-calidad.md)
+
+\- \[Comparación de alternativas](docs/actividad-2/comparacion-alternativas.md)
+
+\- \[ADR - Decisión arquitectónica](docs/actividad-2/adr-001-decision-estructural.md)
+
+\- \[Video de sustentación](https://youtu.be/TU\_ENLACE\_AQUI) (enlace)
+
