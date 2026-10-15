@@ -66,3 +66,45 @@ Se tradujeron las necesidades del negocio en requisitos funcionales y no funcion
 
 \- \[Video de sustentación](https://youtu.be/TU\_ENLACE\_AQUI) (enlace)
 
+
+
+
+
+
+
+\## Actividad 3 - Diseño y dominio
+
+
+
+\### Resumen
+
+
+
+Se diseñó el flujo \*\*Asignar un repartidor a una entrega\*\* dentro del módulo Entregas del monolito modular. El dominio (`Delivery` como raíz de agregado) protege las invariantes; la aplicación expone `AssignCourierUseCase` y define puertos; la infraestructura los implementa con adaptadores. Las dependencias apuntan siempre hacia el dominio.
+
+
+
+\### Entregables
+
+
+
+\- \[Flujo de negocio](docs/actividad-3/01-flujo-negocio.md)
+
+\- \[Glosario de lenguaje ubicuo](docs/actividad-3/02-glosario-lenguaje-ubicuo.md)
+
+\- \[Modelo de dominio y estados](docs/actividad-3/03-modelo-dominio.md)
+
+\- \[Invariantes y escenarios Dado-Cuando-Entonces](docs/actividad-3/04-invariantes-escenarios.md)
+
+\- \[Contextos delimitados y contratos](docs/actividad-3/05-contextos-contratos.md)
+
+\- \[Casos de uso, puertos y adaptadores](docs/actividad-3/06-casos-uso-puertos-adaptadores.md)
+
+\- \[Diagrama C4](docs/actividad-3/07-diagrama-c4.md)
+
+\- \[ADR-002](docs/actividad-3/adr-002-diseno-dominio.md)
+
+\- \[Architecture.md](Architecture.md)
+
+\- \[Video de sustentación](https://youtu.be/TU\_ENLACE\_AQUI) (enlace)
+
