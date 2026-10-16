@@ -106,5 +106,7 @@ Se diseñó el flujo \*\*Asignar un repartidor a una entrega\*\* dentro del mód
 
 \- \[Architecture.md](Architecture.md)
 
+- Código: [src/](src) (Domain, Application, Infrastructure) y [tests/](tests)
+
 \- \[Video de sustentación](https://youtu.be/TU\_ENLACE\_AQUI) (enlace)
 
